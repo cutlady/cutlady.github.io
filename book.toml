@@ -1,0 +1,12 @@
+[book]
+title = "AI Playbook"
+authors = ["王召"]
+language = "zh-CN"
+description = "用 AI 解决实际问题的真实记录"
+
+[output.html]
+mathjax-support = false
+copy-fonts = true
+no-section-label = true
+site-url = "/"
+git-repository-url = ""
